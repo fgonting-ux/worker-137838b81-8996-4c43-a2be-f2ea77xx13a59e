@@ -1,4 +1,4 @@
-name: GitHub Repository Tracker Worker
+name: GitHub Repository Tracker Worker-x
 
 on:
   schedule:
